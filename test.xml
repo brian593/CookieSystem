@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hoteles xmlns:datosWeb="http://ejemplos.hermosprogramacion.com/hoteles-roma">
+    <hotel>
+        <idHotel>1</idHotel>
+        <nombre>Nerva Boutique Hotel</nombre>
+        <precio>145</precio>
+        <valoracion calificacion="5.0" noOpiniones="420" />
+        <urlImagen>
+http://www.hotelsacabana.com/wp-content/uploads/2014/04/homepage-5.jpg
+</urlImagen>
+        <datosWeb:descripcion>
+            <![CDATA[ El mejor hotel de Roma ]]>
+        </datosWeb:descripcion>
+    </hotel>
+    <hotel>
+        <idHotel>2</idHotel>
+        <nombre>Vatican View</nombre>
+        <precio>155</precio>
+        <valoracion calificacion="4.5" noOpiniones="230" />
+        <urlImagen>
+http://www.hotelsacabana.com/wp-content/uploads/2014/04/homepage-5.jpg        </urlImagen>
+        <datosWeb:descripcion>
+            <![CDATA[ Disfruta de la mejores noches en Roma ]]>
+        </datosWeb:descripcion>
+    </hotel>
+    <hotel>
+        <idHotel>3</idHotel>
+        <nombre>Barcelo Aran Park</nombre>
+        <precio>210</precio>
+        <valoracion calificacion="4.5" noOpiniones="345" />
+        <urlImagen>
+http://www.hotelsacabana.com/wp-content/uploads/2014/04/homepage-5.jpg        </urlImagen>
+        <datosWeb:descripcion>
+            <![CDATA[ Desayuna con la mejor pizza ]]>
+        </datosWeb:descripcion>
+    </hotel>
+</hoteles>
