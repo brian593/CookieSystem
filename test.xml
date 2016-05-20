@@ -6,7 +6,7 @@
         <precio>145</precio>
         <valoracion calificacion="5.0" noOpiniones="420" />
         <urlImagen>
-http://www.hotelsacabana.com/wp-content/uploads/2014/04/homepage-5.jpg
+https://media-cdn.tripadvisor.com/media/photo-s/02/39/a9/e9/warwick-seattle-hotel.jpg
 </urlImagen>
         <datosWeb:descripcion>
             <![CDATA[ El mejor hotel de Roma ]]>
@@ -18,7 +18,8 @@ http://www.hotelsacabana.com/wp-content/uploads/2014/04/homepage-5.jpg
         <precio>155</precio>
         <valoracion calificacion="4.5" noOpiniones="230" />
         <urlImagen>
-http://www.hotelsacabana.com/wp-content/uploads/2014/04/homepage-5.jpg        </urlImagen>
+https://media-cdn.tripadvisor.com/media/photo-s/02/39/a9/e9/warwick-seattle-hotel.jpg
+</urlImagen>
         <datosWeb:descripcion>
             <![CDATA[ Disfruta de la mejores noches en Roma ]]>
         </datosWeb:descripcion>
@@ -29,9 +30,22 @@ http://www.hotelsacabana.com/wp-content/uploads/2014/04/homepage-5.jpg        </
         <precio>210</precio>
         <valoracion calificacion="4.5" noOpiniones="345" />
         <urlImagen>
-http://www.hotelsacabana.com/wp-content/uploads/2014/04/homepage-5.jpg        </urlImagen>
+https://media-cdn.tripadvisor.com/media/photo-s/02/39/a9/e9/warwick-seattle-hotel.jpg
+</urlImagen>
         <datosWeb:descripcion>
             <![CDATA[ Desayuna con la mejor pizza ]]>
+        </datosWeb:descripcion>
+    </hotel>
+      <hotel>
+        <idHotel>4</idHotel>
+        <nombre>Brian Hotel</nombre>
+        <precio>155</precio>
+        <valoracion calificacion="4.5" noOpiniones="230" />
+        <urlImagen>
+https://media-cdn.tripadvisor.com/media/photo-s/02/39/a9/e9/warwick-seattle-hotel.jpg
+</urlImagen>
+        <datosWeb:descripcion>
+            <![CDATA[ Disfruta de la mejores noches en Roma ]]>
         </datosWeb:descripcion>
     </hotel>
 </hoteles>
